@@ -14,8 +14,22 @@ h1 {
 .head {font-family: helvetica;
 font-style: italic; }
 
+h3 {text-align:center}
+h3 {
+    background-color: white;
 }
 
-p {
-    background-color: yellow;
 }
+h1.inline
+  {
+  display:inline;
+  }
+ p.{height:100px;width:100px;}
+ h2
+  {
+  position:absolute;
+  left:100px;
+  top:150px;
+  }
+  h4
+   {}
