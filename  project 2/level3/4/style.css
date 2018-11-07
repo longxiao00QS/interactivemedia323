@@ -1,0 +1,30 @@
+body {
+	background-color: white;
+}
+
+h3 {
+	color: white
+	margin-left: 80px;
+}
+h3 {text-align:center}
+h3 {
+    background-color: white;
+}
+
+.head {font-family: helvetica;
+font-style: italic; }
+
+}
+
+p {
+    background-color: yellow;
+}
+
+p
+  {
+  border:10px solid black;
+  }
+ h3 {
+  border:10px solid red;
+  }
+  
