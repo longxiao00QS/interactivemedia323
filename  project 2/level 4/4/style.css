@@ -1,0 +1,33 @@
+body {
+	background-color: orange;
+}
+
+h1 {
+	color: navy
+	margin-left: 45px;
+}
+h4 {text-align:center}
+h5 {text-align:center;}
+h1 {text-align:center;}
+h4 {
+    background-color: yellow;
+}
+
+.head {font-family: helvetica;
+font-style: italic; }
+h4.italic {font-style:italic;}
+h3 {letter-spacing:2px}
+h1 {text-transform:uppercase}
+h2{text-align:center;}
+h3{text-align:center;}
+p.inline
+  {
+  display:inline;
+  }
+  h2 {
+    background-color: blue;
+}
+h1
+  {
+  padding:2cm 4cm 3cm 4cm;
+  }
