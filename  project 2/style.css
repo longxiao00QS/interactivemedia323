@@ -1,0 +1,36 @@
+body {
+	background-color: orange;
+}
+
+h1 {
+	color: white
+	margin-left: 45px;
+}
+h1 {text-align:center}
+h1 {
+    background-color: black;
+}
+
+.head {font-family: helvetica;
+font-style: italic; }
+
+h3 {text-align:center}
+h3 {
+    background-color: white;
+}
+
+}
+h1.inline
+  {
+  display:inline;
+  }
+ p.{height:100px;width:100px;}
+ h2
+  {
+  position:absolute;
+  left:100px;
+  top:150px;
+  }
+  h4
+   {}
+   .box{ font-size:80px; line-height:1.5; color:white; }
