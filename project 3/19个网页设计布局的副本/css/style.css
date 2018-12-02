@@ -1,0 +1,93 @@
+
+
+.box{width:1000px; height: 800px; margin: 0 auto;position:relative;}
+.box_link{text-decoration:none; color:red;}
+
+.img{margin:130px auto;width:600px; height: 600px;border-radius:50%;background: url(../images/IMG_0827.JPG) no-repeat; background-size: 600px;background-position:0 1px;}
+.words{display:block;font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"; position:absolute;font-size: 36px; top:600px; left: 500px;}
+
+.img2{margin:130px auto;width:600px; height: 600px;border-radius:50%;background: url(../images/IMG2.JPG) no-repeat; background-size: 600px;background-position:0 1px;}
+.words2{display:block;font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"; position:absolute;font-size: 36px; top:450px; left:0;}
+
+.img3{margin:130px auto;width:600px; height: 600px;border-radius:50%;background: url(../images/IMG3.JPG) no-repeat; background-size: 600px;background-position:0 1px;}
+.words3{display:block;font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"; position:absolute;font-size: 36px; top:-100px; left:0;}
+
+.img4{margin:130px auto;width:600px; height: 600px;border-radius:50%;background: url(../images/IMG4.JPG) no-repeat; background-size: 600px;background-position:0 1px;}
+.words4{display:block;font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"; position:absolute;font-size: 36px; top:-100px; left:0;}
+
+.img5{margin:130px auto;width:600px; height: 600px;border-radius:50%;background: url(../images/IMG5.JPG) no-repeat; background-size: 600px;background-position:0 -120px;}
+.words5{display:block;font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"; position:absolute;font-size: 36px; top:600px; left: 500px;}
+
+.img6{margin:130px auto;width:600px; height: 600px;border-radius:50%;background: url(../images/IMG6.JPG) no-repeat; background-size: 600px;background-position:0 -120px;}
+.words6{display:block;font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"; position:absolute;font-size: 36px; top:-100px; left: 300px;}
+
+.img7{margin:130px auto;width:600px; height: 600px;border-radius:50%;background: url(../images/IMG7.JPG) no-repeat; background-size: 600px;background-position:0 -120px;}
+.words7{display:block;font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"; position:absolute;font-size: 36px; top:-140px; left: 300px;}
+
+.img8{margin:130px auto;width:600px; height: 600px;border-radius:50%;background: url(../images/IMG8.JPG) no-repeat; background-size: 600px;background-position:0 -160px;}
+.words8{display:block;font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"; position:absolute;font-size: 36px; top:550px; left:0;}
+
+.img9{margin:130px auto;width:600px; height: 600px;border-radius:50%;background: url(../images/IMG9.JPG) no-repeat; background-size: 600px;background-position:0 -160px;}
+.words9{display:block;font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"; position:absolute;font-size: 36px; top:600px; left: 0;}
+
+.img10{margin:130px auto;width:600px; height: 600px;border-radius:50%;background: url(../images/IMG10.JPG) no-repeat; background-size: 600px;background-position:0 -180px;}
+.words10{display:block;font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"; position:absolute;font-size: 36px; top:600px; left: 500px;}
+
+.img11{margin:130px auto;width:600px; height: 600px;border-radius:50%;background: url(../images/IMG11.JPG) no-repeat; background-size: 600px;background-position:0 -170px;}
+.words11{display:block;font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"; position:absolute;font-size: 36px; top:600px; left: 350px;}
+
+.img12{margin:130px auto;width:600px; height: 600px;border-radius:50%;background: url(../images/IMG12.JPG) no-repeat; background-size: 600px;background-position:0 -170px;}
+.words12{display:block;font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"; position:absolute;font-size: 36px; top:600px; left: 250px;}
+
+.img13{margin:130px auto;width:600px; height: 600px;border-radius:50%;background: url(../images/IMG13.JPG) no-repeat; background-size: 600px;background-position:0 -170px;}
+.words13{display:block;font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"; position:absolute;font-size: 36px; top:-140px; left: 570px;}
+
+.img14{margin:130px auto;width:600px; height: 600px;border-radius:50%;background: url(../images/IMG14.JPG) no-repeat; background-size: 600px;background-position:0 -170px;}
+.words14{display:block;font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"; position:absolute;font-size: 36px; top:-140px; left: 500px;}
+
+.img15{margin:130px auto;width:600px; height: 600px;border-radius:50%;background: url(../images/IMG15.JPG) no-repeat; background-size: 600px;background-position:0 -170px;}
+.words15{display:block;font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"; position:absolute;font-size: 36px; top:-140px; left: 0;}
+
+.img16{margin:130px auto;width:600px; height: 600px;border-radius:50%;background: url(../images/IMG16.JPG) no-repeat; background-size: 600px;background-position:0 -170px;}
+.words16{display:block;font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"; position:absolute;font-size: 36px; top:-140px; left: 0;}
+
+.img17{margin:130px auto;width:600px; height: 600px;border-radius:50%;background: url(../images/IMG17.JPG) no-repeat; background-size: 600px;background-position:0 -170px;}
+.words17{display:block;font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"; position:absolute;font-size: 36px; top:-140px; left: 210px;}
+
+.img18{margin:130px auto;width:600px; height: 600px;border-radius:50%;background: url(../images/IMG18.JPG) no-repeat; background-size: 600px;background-position:0 -170px;}
+.words18{display:block;font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"; position:absolute;font-size: 36px; top:600px; left: 0px;}
+
+.img19{margin:130px auto;width:600px; height: 600px;border-radius:50%;background: url(../images/IMG19.JPG) no-repeat; background-size: 600px;background-position:0 -200px;}
+.words19{display:block;font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"; position:absolute;font-size: 36px; top:570px; left: 600px;}
+.top_1{display:block;font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"; position:absolute;font-size: 20px;font-weight:bold; top:500px; left: 0px;}
+.top_2{display:block;font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"; position:absolute;font-size: 16px; top:600px; left: 230px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
